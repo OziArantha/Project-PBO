@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Minuman
+comment1.params=
+comment1.target=Minuman()
+comment2.params=budget
+comment2.target=void\ setBudgetMinuman(int)
+comment3.params=rasa
+comment3.target=void\ setRasa(int)
+comment4.params=ukuran
+comment4.target=void\ setUkuran(int)
+comment5.params=suhu
+comment5.target=void\ setSuhu(int)
+comment6.params=jenis
+comment6.target=void\ setJenisMinuman(int)
+comment7.params=asal
+comment7.target=void\ setAsalMinuman(int)
+comment8.params=
+comment8.target=java.lang.String[]\ getMinuman()
+numComments=9
