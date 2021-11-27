@@ -63,7 +63,7 @@ public class Minuman
                    {
                        if (rasa == 4 && suhu == 2)
                        {
-                            minuman[0] = "Americano = Rp. 30.000";
+                            minuman[0] = "\nAmericano = Rp. 30.000";
                        }
                    }
                    
@@ -71,7 +71,7 @@ public class Minuman
                    {
                        if (rasa == 4 && suhu == 2)
                        {
-                           minuman[1] = "Expresso = Rp. 14.000";
+                           minuman[1] = "\nExpresso = Rp. 14.000";
                        }
                    }
                    
@@ -79,8 +79,8 @@ public class Minuman
                    {
                        if(rasa == 4 && suhu == 2)
                        {
-                            minuman[0] = "Americano = Rp. 30.000";
-                            minuman[1] = "Expresso = Rp. 14.000";
+                            minuman[0] = "\nAmericano = Rp. 30.000";
+                            minuman[1] = "\nExpresso = Rp. 14.000";
                        }
                    }
                    
@@ -92,7 +92,7 @@ public class Minuman
                    {
                        if(rasa == 1 && (suhu == 1 || suhu == 2))
                        {
-                            minuman[4] = "Teh Tarik = Rp. 9.000";
+                            minuman[4] = "\nTeh Tarik = Rp. 9.000";
                        }
                    }
                    
@@ -100,13 +100,13 @@ public class Minuman
                    {
                        if(rasa == 1 && suhu == 1)
                        {
-                            minuman[5] = "Milk Cocoa = Rp. 17.000";
+                            minuman[5] = "\nMilk Cocoa = Rp. 17.000";
                        }
                    
                        else if(rasa == 1 && suhu == 2)
                        {
-                            minuman[5] = "Milk Cocoa = Rp. 17.000";
-                            minuman[6] = "shogayu = Rp. 25.000";
+                            minuman[5] = "\nMilk Cocoa = Rp. 17.000";
+                            minuman[6] = "\nshogayu = Rp. 25.000";
                             
                        }
                    }
@@ -115,7 +115,7 @@ public class Minuman
                    {
                        if(rasa == 2 && suhu == 1)
                        {
-                            minuman[3] = "Soda Asam = Rp. 20.000";
+                            minuman[3] = "\nSoda Asam = Rp. 20.000";
                        }
                    }
                    
@@ -123,21 +123,21 @@ public class Minuman
                    {
                        if(rasa == 1 && suhu == 1)
                        { 
-                           minuman[2] = "Smootie = Rp. 30.000";
-                           minuman[4] = "Teh Tarik = Rp. 9.000";
-                           minuman[5] = "Milk Cocoa = Rp. 17.000";
+                           minuman[2] = "\nSmootie = Rp. 30.000";
+                           minuman[4] = "\nTeh Tarik = Rp. 9.000";
+                           minuman[5] = "\nMilk Cocoa = Rp. 17.000";
                        }
                        
                        else if(rasa == 1 && suhu == 2)
                        {
-                           minuman[4] = "Teh Tarik = Rp. 9.000";
-                           minuman[5] = "Milk Cocoa = Rp. 17.000";
-                           minuman[6] = "shogayu = Rp. 25.000";
+                           minuman[4] = "\nTeh Tarik = Rp. 9.000";
+                           minuman[5] = "\nMilk Cocoa = Rp. 17.000";
+                           minuman[6] = "\nshogayu = Rp. 25.000";
                        }
                        
                        else if(rasa == 2 && suhu == 1)
                        {
-                           minuman[3] = "Soda Asam = Rp. 20.000";
+                           minuman[3] = "\nSoda Asam = Rp. 20.000";
                        }
                    }
                    
@@ -152,7 +152,7 @@ public class Minuman
                    {
                        if (rasa == 4 && suhu == 2)
                        {
-                            minuman[0] = "Americano = Rp. 27.000";
+                            minuman[0] = "\nAmericano = Rp. 27.000";
                        }
                    }
                    
@@ -160,7 +160,7 @@ public class Minuman
                    {
                        if (rasa == 4 && suhu == 2)
                        {
-                           minuman[1] = "Expresso = Rp. 12.000";
+                           minuman[1] = "\nExpresso = Rp. 12.000";
                        }
                    }
                    
@@ -168,8 +168,8 @@ public class Minuman
                    {
                        if(rasa == 4 && suhu == 2)
                        {
-                            minuman[0] = "Americano = Rp. 27.000";
-                            minuman[1] = "Expresso = Rp. 12.000";
+                            minuman[0] = "\nAmericano = Rp. 27.000";
+                            minuman[1] = "\nExpresso = Rp. 12.000";
                        }
                    }
                    
@@ -181,7 +181,7 @@ public class Minuman
                    {
                        if(rasa == 1 && (suhu == 1 || suhu == 2))
                        {
-                            minuman[4] = "Teh Tarik = Rp. 7.000";
+                            minuman[4] = "\nTeh Tarik = Rp. 7.000";
                        }
                    }
                    
@@ -189,13 +189,13 @@ public class Minuman
                    {
                        if(rasa == 1 && suhu == 1)
                        {
-                            minuman[5] = "Milk Cocoa = Rp. 15.000";
+                            minuman[5] = "\nMilk Cocoa = Rp. 15.000";
                        }
                    
                        else if(rasa == 1 && suhu == 2)
                        {
-                            minuman[5] = "Milk Cocoa = Rp. 15.000";
-                            minuman[6] = "shogayu = Rp. 23.000";
+                            minuman[5] = "\nMilk Cocoa = Rp. 15.000";
+                            minuman[6] = "\nshogayu = Rp. 23.000";
                             
                        }
                    }
@@ -204,7 +204,7 @@ public class Minuman
                    {
                        if(rasa == 2 && suhu == 1)
                        {
-                            minuman[3] = "Soda Asam = Rp. 18.000";
+                            minuman[3] = "\nSoda Asam = Rp. 18.000";
                        }
                    }
                    
@@ -212,21 +212,21 @@ public class Minuman
                    {
                        if(rasa == 1 && suhu == 1)
                        { 
-                           minuman[2] = "Smootie = Rp. 27.000";
-                           minuman[4] = "Teh Tarik = Rp. 7.000";
-                           minuman[5] = "Milk Cocoa = Rp. 15.000";
+                           minuman[2] = "\nSmootie = Rp. 27.000";
+                           minuman[4] = "\nTeh Tarik = Rp. 7.000";
+                           minuman[5] = "\nMilk Cocoa = Rp. 15.000";
                        }
                        
                        else if(rasa == 1 && suhu == 2)
                        {
-                           minuman[4] = "Teh Tarik = Rp. 7.000";
-                           minuman[5] = "Milk Cocoa = Rp. 15.000";
-                           minuman[6] = "shogayu = Rp. 23.000";
+                           minuman[4] = "\nTeh Tarik = Rp. 7.000";
+                           minuman[5] = "\nMilk Cocoa = Rp. 15.000";
+                           minuman[6] = "\nshogayu = Rp. 23.000";
                        }
                        
                        else if(rasa == 2 && suhu == 1)
                        {
-                           minuman[3] = "Soda Asam = Rp. 18.000";
+                           minuman[3] = "\nSoda Asam = Rp. 18.000";
                        }
                    }
                    
@@ -241,7 +241,7 @@ public class Minuman
                    {
                        if (rasa == 4 && suhu == 2)
                        {
-                            minuman[0] = "Americano = Rp. 24.000";
+                            minuman[0] = "\nAmericano = Rp. 24.000";
                        }
                    }
                    
@@ -249,7 +249,7 @@ public class Minuman
                    {
                        if (rasa == 4 && suhu == 2)
                        {
-                           minuman[1] = "Expresso = Rp. 10.000";
+                           minuman[1] = "\nExpresso = Rp. 10.000";
                        }
                    }
                    
@@ -257,8 +257,8 @@ public class Minuman
                    {
                        if(rasa == 4 && suhu == 2)
                        {
-                            minuman[0] = "Americano = Rp. 24.000";
-                            minuman[1] = "Expresso = Rp. 10.000";
+                            minuman[0] = "\nAmericano = Rp. 24.000";
+                            minuman[1] = "\nExpresso = Rp. 10.000";
                        }
                    }
                    
@@ -270,7 +270,7 @@ public class Minuman
                    {
                        if(rasa == 1 && (suhu == 1 || suhu == 2))
                        {
-                            minuman[4] = "Teh Tarik = Rp. 5.000";
+                            minuman[4] = "\nTeh Tarik = Rp. 5.000";
                        }
                    }
                    
@@ -278,13 +278,13 @@ public class Minuman
                    {
                        if(rasa == 1 && suhu == 1)
                        {
-                            minuman[5] = "Milk Cocoa = Rp. 13.000";
+                            minuman[5] = "\nMilk Cocoa = Rp. 13.000";
                        }
                    
                        else if(rasa == 1 && suhu == 2)
                        {
-                            minuman[5] = "Milk Cocoa = Rp. 13.000";
-                            minuman[6] = "shogayu = Rp. 21.000";
+                            minuman[5] = "\nMilk Cocoa = Rp. 13.000";
+                            minuman[6] = "\nshogayu = Rp. 21.000";
                             
                        }
                    }
@@ -293,7 +293,7 @@ public class Minuman
                    {
                        if(rasa == 2 && suhu == 1)
                        {
-                            minuman[3] = "Soda Asam = Rp. 16.000";
+                            minuman[3] = "\nSoda Asam = Rp. 16.000";
                        }
                    }
                    
@@ -301,21 +301,21 @@ public class Minuman
                    {
                        if(rasa == 1 && suhu == 1)
                        { 
-                           minuman[2] = "Smootie = Rp. 24.000";
-                           minuman[4] = "Teh Tarik = Rp. 5.000";
-                           minuman[5] = "Milk Cocoa = Rp. 13.000";
+                           minuman[2] = "\nSmootie = Rp. 24.000";
+                           minuman[4] = "\nTeh Tarik = Rp. 5.000";
+                           minuman[5] = "\nMilk Cocoa = Rp. 13.000";
                        }
                        
                        else if(rasa == 1 && suhu == 2)
                        {
-                           minuman[4] = "Teh Tarik = Rp. 5.000";
-                           minuman[5] = "Milk Cocoa = Rp. 13.000";
-                           minuman[6] = "shogayu = Rp. 21.000";
+                           minuman[4] = "\nTeh Tarik = Rp. 5.000";
+                           minuman[5] = "\nMilk Cocoa = Rp. 13.000";
+                           minuman[6] = "\nshogayu = Rp. 21.000";
                        }
                        
                        else if(rasa == 2 && suhu == 1)
                        {
-                           minuman[3] = "Soda Asam = Rp. 16.000";
+                           minuman[3] = "\nSoda Asam = Rp. 16.000";
                        }
                    }
                    
@@ -334,7 +334,7 @@ public class Minuman
                    {
                        if (rasa == 4 && suhu == 2)
                        {
-                           minuman[1] = "Expresso = Rp. 14.000";
+                           minuman[1] = "\nExpresso = Rp. 14.000";
                        }
                    }
                    
@@ -346,7 +346,7 @@ public class Minuman
                    {
                        if(rasa == 1 && (suhu == 1 || suhu == 2))
                        {
-                            minuman[4] = "Teh Tarik = Rp. 9.000";
+                            minuman[4] = "\nTeh Tarik = Rp. 9.000";
                        }
                    }
                    
@@ -354,7 +354,7 @@ public class Minuman
                    {
                        if(rasa == 2 && suhu == 1)
                        {
-                            minuman[3] = "Soda Asam = Rp. 20.000";
+                            minuman[3] = "\nSoda Asam = Rp. 20.000";
                        }
                    }
                    
@@ -362,12 +362,12 @@ public class Minuman
                    {
                        if(rasa == 1 && (suhu == 1 || suhu == 2))
                        {
-                            minuman[4] = "Teh Tarik = Rp. 9.000";
+                            minuman[4] = "\nTeh Tarik = Rp. 9.000";
                        }
                        
                        else if(rasa == 2 && suhu == 1)
                        {
-                            minuman[3] = "Soda Asam = Rp. 20.000";
+                            minuman[3] = "\nSoda Asam = Rp. 20.000";
                        }
                    }
                }
@@ -381,7 +381,7 @@ public class Minuman
                    {
                        if (rasa == 4 && suhu == 2)
                        {
-                           minuman[1] = "Expresso = Rp. 12.000";
+                           minuman[1] = "\nExpresso = Rp. 12.000";
                        }
                    }
                    
@@ -393,7 +393,7 @@ public class Minuman
                    {
                        if(rasa == 1 && (suhu == 1 || suhu == 2))
                        {
-                            minuman[4] = "Teh Tarik = Rp. 7.000";
+                            minuman[4] = "\nTeh Tarik = Rp. 7.000";
                        }
                    }
                    
@@ -401,7 +401,7 @@ public class Minuman
                    {
                        if(rasa == 2 && suhu == 1)
                        {
-                            minuman[3] = "Soda Asam = Rp. 18.000";
+                            minuman[3] = "\nSoda Asam = Rp. 18.000";
                        }
                    }
                    
@@ -414,7 +414,7 @@ public class Minuman
                        
                        else if(rasa == 2 && suhu == 1)
                        {
-                            minuman[3] = "Soda Asam = Rp. 18.000";
+                            minuman[3] = "\nSoda Asam = Rp. 18.000";
                        }
                    }
                }
@@ -428,7 +428,7 @@ public class Minuman
                    {
                        if (rasa == 4 && suhu == 2)
                        {
-                           minuman[1] = "Expresso = Rp. 10.000";
+                           minuman[1] = "\nExpresso = Rp. 10.000";
                        }
                    }
                    
@@ -440,7 +440,7 @@ public class Minuman
                    {
                        if(rasa == 1 && (suhu == 1 || suhu == 2))
                        {
-                            minuman[4] = "Teh Tarik = Rp. 5.000";
+                            minuman[4] = "\nTeh Tarik = Rp. 5.000";
                        }
                    }
                    
@@ -448,7 +448,7 @@ public class Minuman
                    {
                        if(rasa == 2 && suhu == 1)
                        {
-                            minuman[3] = "Soda Asam = Rp. 16.000";
+                            minuman[3] = "\nSoda Asam = Rp. 16.000";
                        }
                    }
                    
@@ -456,12 +456,12 @@ public class Minuman
                    {
                        if(rasa == 1 && (suhu == 1 || suhu == 2))
                        {
-                            minuman[4] = "Teh Tarik = Rp. 5.000";
+                            minuman[4] = "\nTeh Tarik = Rp. 5.000";
                        }
                        
                        else if(rasa == 2 && suhu == 1)
                        {
-                            minuman[3] = "Soda Asam = Rp. 16.000";
+                            minuman[3] = "\nSoda Asam = Rp. 16.000";
                        }
                    }
                }
@@ -474,7 +474,7 @@ public class Minuman
            {
                if (rasa == 4 && suhu == 2 && (asalMinuman == 1 || asalMinuman == 5))
                {
-                       minuman[1] = "Expresso = Rp. 10.000";
+                       minuman[1] = "\nExpresso = Rp. 10.000";
                }
            }
        }
@@ -485,7 +485,7 @@ public class Minuman
            {
                if(rasa == 1 && (suhu == 1 || suhu == 2) && (asalMinuman == 1 || asalMinuman == 5))
                {
-                        minuman[4] = "Teh Tarik = Rp. 5.000";
+                        minuman[4] = "\nTeh Tarik = Rp. 5.000";
                }
            }
        }
