@@ -489,6 +489,12 @@ public class Minuman
                }
            }
        }
+       
+       for(int i = 0; i < minuman.length; i++) {
+           if(minuman[i] == null){
+               minuman[i] = "";
+           }
+       }
        return minuman;
     }
 }
