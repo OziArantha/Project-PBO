@@ -1,10 +1,3 @@
-
-/**
- * Write a description of class Makanan here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Makanan
 {
     private int rasa; 
@@ -49,9 +42,9 @@ public class Makanan
         this.asalMakanan=asal;
     }
      
-         //Spaghetti, harga : (10.000), non-vegetarian, manis,asam,pedas, sehat,  Italia
-         //NasiGoreng, harga : (15.000), non-vegetarian, asin,asam,gurih, sehat, Indonesia
-         //RotiDaging, harga : (5.000), non-vegetarian, manis,asam,, cepat saji, China
+    //Spaghetti, harga : (10.000), non-vegetarian, manis,asam,pedas, sehat,  Italia
+    //NasiGoreng, harga : (15.000), non-vegetarian, asin,asam,gurih, sehat, Indonesia
+    //RotiDaging, harga : (5.000), non-vegetarian, manis,asam,, cepat saji, China
         
     
     public String[] getMakanan()
@@ -113,7 +106,12 @@ public class Makanan
                    }
                }
        }
-                   
+       
+       for(int i = 0; i < makanan.length; i++) {
+           if(makanan[i] == null){
+               makanan[i] = "";
+           }
+       }            
        return makanan;
     }
 }

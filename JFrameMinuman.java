@@ -247,7 +247,7 @@ public class JFrameMinuman extends javax.swing.JFrame {
             minuman.setJenisMinuman(2);
         }
         
-        //asal Menu
+        //asal menu
         String value;
         value = (String)jComboBox1.getSelectedItem();
         if(value == "Indonesia") {
